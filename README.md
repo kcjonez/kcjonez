@@ -1,4 +1,4 @@
-### Hi there 👋
+### 🔭 Always working on trying to improve 🔭
 
 <!--
 **kcjonez/kcjonez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
